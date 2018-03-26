@@ -9,8 +9,8 @@ An instigator bot for twitter discussions
 
 ## Examples
 
-- (@NavajitasBot)[https://twitter.com/NavajitasBot/with_replies]
-- (@AmarraNavjasBot)[https://twitter.com/amarranavjasbot/with_replies]
+- [@NavajitasBot](https://twitter.com/NavajitasBot/with_replies)
+- [@AmarraNavjasBot](https://twitter.com/amarranavjasbot/with_replies)
 
 ## Creator notes
 Use the social networks with responsability, this application has been made for a Hackathon for technical purposes.
