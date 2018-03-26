@@ -1,6 +1,6 @@
 # NavajitasBot
 
-An instigator bot for twitter
+An instigator bot for twitter discussions
 
 ## Instructions
 
