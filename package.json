@@ -1,0 +1,25 @@
+{
+  "name": "navajitas-bot",
+  "version": "1.0.0",
+  "description": "Amarra navajas bot ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run build && node build/index.js",
+    "build": "cp ./*.json ./build && cp -R ./reactions  ./build && babel *.js -d ./build -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastián Osorio",
+  "license": "MIT ",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-import": "^1.6.7",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1"
+  },
+  "dependencies": {
+    "@google-cloud/language": "^1.2.0",
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.9"
+  }
+}
