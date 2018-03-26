@@ -16,7 +16,7 @@ An instigator bot for twitter discussions
 - [@AmarraNavjasBot](https://twitter.com/amarranavjasbot/with_replies)
 
 ## Author notes
-This application has been made for a Hackathon for technical purposes, use it with responsability. 
+This application has been made in a Hackathon for technical purposes, use it with responsability. 
 
 
 ![Ohh](https://raw.githubusercontent.com/sirgalleto/navajitasbot/master/reactions/ohhhh.gif)
